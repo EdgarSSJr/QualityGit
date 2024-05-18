@@ -1,3 +1,9 @@
+# compilados do dotNet
+*.ext
+*.dll
+bin
+obj
+
 # Logs
 logs
 *.log
