@@ -13,12 +13,12 @@ Repositorio de aulas de Git
 
 ## Apêndice
 
-Coloque qualquer informação adicional aqui
+Apenas de carater educativo
 
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@EdgarSSJr](https://github.com/EdgarSSJr)
 
 
 ## Etiquetas
