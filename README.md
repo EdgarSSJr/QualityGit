@@ -13,17 +13,17 @@ Repositorio de aulas de Git
 
 ## Apêndice
 
-Coloque qualquer informação adicional aqui
+Apenas de carater educativo
 
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@EdgarSSJr](https://github.com/EdgarSSJr)
 
 
 ## Etiquetas
 
-Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
+Etiquetas : [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
